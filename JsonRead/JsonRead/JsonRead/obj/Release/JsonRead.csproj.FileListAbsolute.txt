@@ -1,0 +1,11 @@
+C:\Users\danie\source\repos\JsonRead\JsonRead\JsonRead\bin\Release\JsonRead.exe.config
+C:\Users\danie\source\repos\JsonRead\JsonRead\JsonRead\bin\Release\JsonRead.exe
+C:\Users\danie\source\repos\JsonRead\JsonRead\JsonRead\bin\Release\JsonRead.pdb
+C:\Users\danie\source\repos\JsonRead\JsonRead\JsonRead\bin\Release\Newtonsoft.Json.dll
+C:\Users\danie\source\repos\JsonRead\JsonRead\JsonRead\bin\Release\Newtonsoft.Json.xml
+C:\Users\danie\source\repos\JsonRead\JsonRead\JsonRead\obj\Release\JsonRead.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\JsonRead\JsonRead\JsonRead\obj\Release\Interop.SAPbobsCOM.dll
+C:\Users\danie\source\repos\JsonRead\JsonRead\JsonRead\obj\Release\JsonRead.csproj.ResolveComReference.cache
+C:\Users\danie\source\repos\JsonRead\JsonRead\JsonRead\obj\Release\JsonRead.csproj.CopyComplete
+C:\Users\danie\source\repos\JsonRead\JsonRead\JsonRead\obj\Release\JsonRead.exe
+C:\Users\danie\source\repos\JsonRead\JsonRead\JsonRead\obj\Release\JsonRead.pdb
